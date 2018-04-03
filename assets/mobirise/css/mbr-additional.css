@@ -1,0 +1,15 @@
+#menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #43026f;
+}
+#menu-1 .mbr-navbar__section {
+  background: #43026f;
+}
+#menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#features1-2 P {
+  text-align: center;
+}
